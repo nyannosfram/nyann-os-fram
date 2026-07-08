@@ -11998,3 +11998,4 @@ Window:Notify({
   Image = "rbxassetid://94678517792779",
   Duration = 5
 })
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hdanhhub/hdanhhub/refs/heads/main/Fix-Lag.lua.txt"))()
