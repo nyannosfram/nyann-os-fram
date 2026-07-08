@@ -1351,8 +1351,8 @@ Tabs.Info:AddSection("Information")
 Tabs.Info:AddDiscordInvite({
 	Title = "nyann | Community",
 	Description = "A community for nyann os Users - official scripts, updates, and suport in one place.",
-	Banner = "rbxassetid://86224472741926", 
-	Logo = "rbxassetid://86224472741926",
+	Banner = "rbxassetid://94678517792779", 
+	Logo = "rbxassetid://94678517792779",
 	Invite = "https://discord.gg/HJbtKcHAw",
 	Members = 36, 
 	Online = 67, 
@@ -11995,6 +11995,6 @@ StartMainLoops()
 Window:Notify({
   Title = "nyann os fram ",
   Content = "Loading...",
-  Image = "rbxassetid://86224472741926",
+  Image = "rbxassetid://94678517792779",
   Duration = 5
 })
